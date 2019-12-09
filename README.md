@@ -1,6 +1,8 @@
 # Vue Activities List
 A very simple "to do list" app, that use local storage to persist the to do items. This project was created to gain more knowledge about Vue.js, working primarily with transitions, mixins and Vuetify plugin.
 
+Check a demo [here](https://www.hamoncordova.com.br/vue/activities-list/)
+
 ## Project setup
 ```
 npm install
